@@ -1,0 +1,123 @@
+LINGUAGEM MARKDOWN
+
+1.negrito
+
+**markdown** 
+ __markdown__
+
+2.italico
+
+*markdown* 
+_markdown_
+
+3.frases riscadas
+
+~~markdown~~
+
+4.titulos
+
+# markdown     //titulo nivel 1
+## markdown   //titulo nivel 2
+### markdown  //titulo nivel 3
+
+5.linha horizontal
+
+---  
+***
+
+6.misturando negrito e italico
+
+__*markdown*__
+
+7.lista numerada
+
+1. nome
+1. idade
+1. nacionalidade
+800. cpf
+
+8.lista numerada com sub-item
+
+1. nome
+1. idade
+   4. nome social
+1. nacionalidade
+800. cpf
+
+9.lista demarcada/ "" "" com sub-item
+
+*lista
+*lista
+*lista
+
+*lista
+*lista
+   *lista
+*lista
+
+10.lista de tarefas
+
+-[] acordar
+-[] estudar
+-[] comer
+-[] dormir
+
+11.imagens
+
+pra adicionar imagem so arrastar dos arquivos
+para a conversa.
+
+12.link
+
+[acesse meu github](https://github.com/matheusbezerraa)
+
+13.tabela
+
+numero| nome| nota
+---|---|--- 
+1 | matheus| 10
+
+14.para adicionar um comando
+
+não entendo o comando 'System.out.println()' da linguagem java
+
+'''
+
+package br.com.treinaweb;
+
+    public class Exemplo {
+        
+        public static void main(String[] args) {
+            int resposta = 10;
+            if (resposta == 10) {
+                // Se a variável for igual a 10, a frase abaixo será escrita
+                System.out.println(“Você acertou!”);
+            } else {
+                // Caso contrário, a frase abaixo será escrita
+                System.out.println(“Você errou!”);
+            }
+        }
+        
+    }
+
+'''
+
+15.emoji
+
+só adicionar : depois escolher
+
+16.marcar pessoas
+
+só usar o @
+
+
+
+
+
+
+
+
+
+
+
+
